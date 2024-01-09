@@ -1,1 +1,0 @@
-<error>console</error>.log('');
