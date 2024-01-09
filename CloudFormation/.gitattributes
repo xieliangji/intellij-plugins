@@ -1,3 +1,0 @@
-testData/serverless-application-model/src/* -text diff
-testData/officialExamples/src/* -text diff
-*.jar binary

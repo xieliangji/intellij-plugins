@@ -1,9 +1,0 @@
-0@<{
-  "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "desc",
-
-  "Conditions": {
-  }
-}>
-
-0: Resources section is missing
