@@ -1,5 +1,0 @@
-application {
-  config {
-    baseName basicApplication
-  }
-}
