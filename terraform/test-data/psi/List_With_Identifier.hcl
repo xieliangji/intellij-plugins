@@ -1,1 +1,0 @@
-foo = [true, 42, "foo", 'baz', id, another_id, false]

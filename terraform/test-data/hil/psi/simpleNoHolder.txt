@@ -1,6 +1,0 @@
-HILFile: a.hil
-  ILExpressionHolder
-    PsiElement(${)('${')
-    ILVariable
-      PsiElement(ID)('variable')
-    PsiElement(})('}')
