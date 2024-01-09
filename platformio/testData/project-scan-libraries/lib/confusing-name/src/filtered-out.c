@@ -1,1 +1,0 @@
-#error The file has to be skipped because srcFilter clause forbidding .c files
