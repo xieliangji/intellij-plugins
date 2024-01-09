@@ -1,5 +1,0 @@
-type S = Unsupported("GEOSPATIAL")
-
-generator client {
-  provider = "prisma-client-js"
-}

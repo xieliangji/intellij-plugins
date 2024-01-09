@@ -1,3 +1,0 @@
-model M {
-  @@id(fiel<caret>ds: [])
-}

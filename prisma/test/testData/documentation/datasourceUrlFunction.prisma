@@ -1,3 +1,0 @@
-datasource db {
-  url = en<caret>v("")
-}

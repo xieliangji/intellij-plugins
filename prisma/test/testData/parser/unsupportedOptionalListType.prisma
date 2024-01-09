@@ -1,5 +1,0 @@
-model Post {
-  id       Int                                    @id
-  location Unsupported("\"public\".geography")[]?
-  title    String
-}

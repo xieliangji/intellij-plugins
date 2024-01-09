@@ -1,3 +1,0 @@
-model User {
-  i<caret>d Int /// Trailing doc
-}

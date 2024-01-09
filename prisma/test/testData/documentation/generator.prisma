@@ -1,7 +1,0 @@
-/// Skip
-
-/// Generator
-/// Docs
-generator clie<caret>nt {
-  provider = "prisma-client-js"
-}

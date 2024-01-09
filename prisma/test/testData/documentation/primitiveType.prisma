@@ -1,3 +1,0 @@
-model M {
-  id Str<caret>ing
-}

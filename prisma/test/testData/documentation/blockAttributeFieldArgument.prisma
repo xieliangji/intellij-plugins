@@ -1,9 +1,0 @@
-datasource db {
-  provider = "mysql"
-}
-
-model M {
-  id String
-
-  @@unique([id(len<caret>gth: 100)])
-}
