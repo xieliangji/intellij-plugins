@@ -1,3 +1,0 @@
-SINGLE_LINE_COMMENT ('// single comment ')
-WHITE_SPACE ('\n ')
-SINGLE_LINE_COMMENT ('// single comment2')

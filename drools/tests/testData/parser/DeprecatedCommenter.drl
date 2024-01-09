@@ -1,6 +1,0 @@
-dialect  "java"
-# deprecated comment
-rule "foo"
-#  deprecated  comment
-then
-end

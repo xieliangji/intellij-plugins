@@ -1,7 +1,0 @@
-package examples.fibonacci
-
-import examples.fibonacci.FibonacciExample.Fibonacci;
-
-query "testQuery"
-    f1 : Fibonacci( value != -1, <error>unknown</error> > 123 )
-end

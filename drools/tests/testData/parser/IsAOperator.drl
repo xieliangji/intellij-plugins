@@ -1,6 +1,0 @@
-rule "Working Students"
-when
-    $s : IStudent (this isA IWorker)
-then
-    System.out.println( "ok");
-end

@@ -1,6 +1,0 @@
-package examples.fibonacci
-
-import examples.fibonacci.FibonacciExample.Fibonacci;
-
-<caret>
-rule Calculate when then end
