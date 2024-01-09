@@ -1,3 +1,0 @@
-myApp.factory('', function () {
-    <caret>
-});

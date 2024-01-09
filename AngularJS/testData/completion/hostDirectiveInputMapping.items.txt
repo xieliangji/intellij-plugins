@@ -1,5 +1,0 @@
-alias1 (typeText='string')
-alias4 (typeText='number')
-alias5 (typeText='number')
-field6 (typeText='string')
-virtual (typeText=null)

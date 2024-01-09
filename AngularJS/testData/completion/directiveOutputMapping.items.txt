@@ -1,2 +1,0 @@
-field1 (typeText='String'; priority=100.0; bold; typeGreyed)
-field2 (typeText='String'; priority=100.0; bold; typeGreyed)

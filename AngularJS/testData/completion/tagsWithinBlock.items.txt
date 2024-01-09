@@ -1,2 +1,0 @@
-body (typeText=null; priority=1.0)
-tbody (typeText=null; priority=1.0)

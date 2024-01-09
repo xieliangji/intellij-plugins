@@ -1,8 +1,0 @@
-NG:BLOCK_NAME ('@block   name with     some spaces and 	 tabs')
-XML_WHITE_SPACE ('   ')
-JS:LPAR ('(')
-NG:BLOCK_PARAMETER_NAME ('arg')
-JS:RPAR (')')
-XML_WHITE_SPACE ('   ')
-NG:BLOCK_START ('{')
-NG:BLOCK_END ('}')

@@ -1,2 +1,0 @@
-x (typeText=null; priority=0.0)
-y (typeText=null; priority=0.0)

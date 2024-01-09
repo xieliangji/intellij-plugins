@@ -1,8 +1,0 @@
-NG:BLOCK_NAME ('@if')
-XML_WHITE_SPACE (' ')
-JS:LPAR ('(')
-JS:RPAR (')')
-XML_WHITE_SPACE (' ')
-NG:BLOCK_START ('{')
-XML_WHITE_SPACE ('\n\n')
-NG:BLOCK_END ('}')

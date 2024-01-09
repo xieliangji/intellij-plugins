@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@angular/core": "*"
-  },
-  "web-types": "custom-user-events.web-types.json"
-}

@@ -1,1 +1,0 @@
-[weight] (typeText='Number'; priority=100.0; bold; typeGreyed)
