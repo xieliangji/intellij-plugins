@@ -1,2 +1,0 @@
-prop = "string
-new line<EOLError descr="Unterminated string"></EOLError><EOLError descr="';' expected"></EOLError>

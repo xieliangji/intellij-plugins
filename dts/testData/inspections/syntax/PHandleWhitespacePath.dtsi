@@ -1,3 +1,0 @@
-&{<error descr="Unexpected whitespace">   </error>/path/to/node} {
-    prop = &<error descr="Unexpected whitespace">  </error>{/path/to/node};
-};

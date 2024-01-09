@@ -1,5 +1,0 @@
-/ {
-    <error descr="Missing required properties: \"phy-handle\"">node</error> {
-        compatible = "espressif,esp32-eth";
-    };
-};

@@ -1,5 +1,0 @@
-/ {
-    lable: node {
-        compatible = "espressif,esp32-eth";
-    };
-};

@@ -1,5 +1,0 @@
-/ {
-    cpus {
-        child<caret> {};
-    };
-};

@@ -1,9 +1,0 @@
-/ {
-    node {
-        prop = "";
-    }
-
-    /include/ "file"
-
-    /include/ "file"
-};

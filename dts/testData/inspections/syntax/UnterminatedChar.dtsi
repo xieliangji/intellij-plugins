@@ -1,3 +1,0 @@
-prop = <' <error descr="Unterminated char"></error>>;
-prop = <'><error descr="Unterminated char"></error><error descr="'>' expected, got ';'">;</error>
-prop = <';<error descr="Unterminated char"></error><EOLError descr="'>' expected"></EOLError>

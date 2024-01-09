@@ -1,9 +1,0 @@
-/include/ "Declaration.dtsi"
-
-&lable {
-    phy-handle = "";
-};
-
-<error descr="Missing required properties: \"phy-handle\"">&lable</error> {
-    /delete-property/ phy-handle;
-};

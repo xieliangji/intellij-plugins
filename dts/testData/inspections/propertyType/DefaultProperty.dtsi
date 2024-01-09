@@ -1,7 +1,0 @@
-node {
-    compatible = "string";
-    compatible = "string", "string";
-
-    compatible = <error descr="Expected property of type: string-array"><4></error>;
-    compatible = <error descr="Expected property of type: string-array">"string", <4></error>;
-};

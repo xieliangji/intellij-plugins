@@ -1,3 +1,0 @@
-<error descr="Bad first character \"0\" in label name">0label</error>: prop = "value";
-
-label0: prop = "value";

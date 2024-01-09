@@ -1,3 +1,0 @@
-<error descr="Bad character \"#\" in label name">lab#el</error>: prop = "value";
-
-label: prop = "value";

@@ -1,3 +1,0 @@
-name@<warning descr="Unit name should not have leading \"0x\"">0x10</warning> {};
-
-name@10 {};

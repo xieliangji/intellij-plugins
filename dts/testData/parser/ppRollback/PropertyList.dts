@@ -1,5 +1,0 @@
-/ {
-    prop = "value",
-    <pp-statement>
-    ;
-};

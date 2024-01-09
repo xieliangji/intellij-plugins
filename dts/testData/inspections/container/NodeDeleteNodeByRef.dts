@@ -1,3 +1,0 @@
-/ {
-    <error descr="Not a valid node entry">/delete-node/</error> &label;
-};

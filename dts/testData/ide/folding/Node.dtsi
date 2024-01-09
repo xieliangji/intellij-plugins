@@ -1,3 +1,0 @@
-node <fold text='{...}'>{
-    prop = "value";
-}</fold>;

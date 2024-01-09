@@ -1,5 +1,0 @@
-prop = [MACRO];
-prop = <MACRO>;
-prop = [10 20 MACRO 30 40];
-prop = <00 20 MACRO 30>;
-porp = "this", "is", MACRO, "list";

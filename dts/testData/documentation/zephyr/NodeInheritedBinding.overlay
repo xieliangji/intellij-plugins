@@ -1,5 +1,0 @@
-&pinctrl {
-    ledc0_default {
-        group1<caret> { };
-    };
-};

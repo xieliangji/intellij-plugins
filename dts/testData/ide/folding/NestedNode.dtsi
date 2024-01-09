@@ -1,7 +1,0 @@
-/ <fold text='{...}'>{
-    prop = "value";
-
-    node <fold text='{...}'>{
-        prop = "value";
-    }</fold>;
-}</fold>;

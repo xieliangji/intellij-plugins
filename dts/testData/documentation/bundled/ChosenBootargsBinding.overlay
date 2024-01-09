@@ -1,5 +1,0 @@
-/ {
-    chosen {
-        bootargs<caret> = "value";
-    };
-};
