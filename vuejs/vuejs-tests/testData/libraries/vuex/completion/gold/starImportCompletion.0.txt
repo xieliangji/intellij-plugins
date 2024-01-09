@@ -1,3 +1,0 @@
-sour/uniqueStatuses (typeText=null; priority=103.0; bold)
-userFirstName (typeText=null; priority=103.0; bold)
-userLoggedIn (typeText=null; priority=103.0; bold)

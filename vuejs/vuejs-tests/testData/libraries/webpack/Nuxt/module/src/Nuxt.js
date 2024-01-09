@@ -1,1 +1,0 @@
-nuxtAssetF<caret>

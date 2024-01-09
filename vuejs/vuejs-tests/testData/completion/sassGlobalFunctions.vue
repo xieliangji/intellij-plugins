@@ -1,1 +1,0 @@
-"<style lang='scss'>*{color: tra<caret> }</style>"

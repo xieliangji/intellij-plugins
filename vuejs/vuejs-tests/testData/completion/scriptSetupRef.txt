@@ -1,2 +1,0 @@
-foo2 (typeText=null; priority=0.0; bold)
-foo3 (typeText=null; priority=0.0; bold)

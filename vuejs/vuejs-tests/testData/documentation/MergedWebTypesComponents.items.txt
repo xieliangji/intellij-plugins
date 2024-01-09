@@ -1,5 +1,0 @@
-n-affix (priority=100.0; bold)
-n-bar (priority=100.0; bold)
-n-a (priority=10.0)
-n-alert (priority=10.0)
-n-button (priority=10.0)

@@ -1,2 +1,0 @@
-Avatar (typeText='PrimeVue'; priority=100.0; bold; typeGreyed)
-BlockUI (typeText='PrimeVue'; priority=10.0; typeGreyed)

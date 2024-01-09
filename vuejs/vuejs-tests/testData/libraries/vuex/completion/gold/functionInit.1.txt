@@ -1,1 +1,0 @@
-prop1 (typeText='string'; priority=101.0; bold)

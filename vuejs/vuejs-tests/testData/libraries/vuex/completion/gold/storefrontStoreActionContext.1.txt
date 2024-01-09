@@ -1,5 +1,0 @@
-categoriesMap (typeText=null; priority=101.0; bold)
-filtersMap (typeText=null; priority=101.0; bold)
-notFoundCategoryIds (typeText='any[]'; priority=101.0; bold)
-products (typeText='any[]'; priority=101.0; bold)
-searchProductsStats (typeText=null; priority=101.0; bold)

@@ -1,7 +1,0 @@
-defineEmits (typeText=null; priority=1.0; bold)
-defineExpose (typeText='void'; priority=1.0; bold)
-defineProps (typeText=null; priority=1.0; bold)
-defineAsyncComponent (typeText='T'; priority=0.0; bold)
-defineComponent (typeText=null; priority=0.0; bold)
-defineCustomElement (typeText=null; priority=0.0; bold)
-defineSSRCustomElement (typeText=null; priority=0.0; bold)

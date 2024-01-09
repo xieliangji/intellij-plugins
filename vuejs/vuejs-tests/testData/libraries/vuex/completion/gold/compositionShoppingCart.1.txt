@@ -1,2 +1,0 @@
-addProductToCart (typeText=null; priority=103.0; bold)
-checkout (typeText=null; priority=103.0; bold)

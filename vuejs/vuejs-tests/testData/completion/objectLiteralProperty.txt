@@ -1,2 +1,0 @@
-afo (typeText='number'; priority=7.0; bold)
-boo (typeText='string'; priority=7.0; bold)

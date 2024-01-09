@@ -1,3 +1,0 @@
-localFilter
-appFilter
-globalFilter

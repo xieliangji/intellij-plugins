@@ -1,3 +1,0 @@
-cart/addProductToCart (typeText=null; priority=103.0; bold)
-cart/checkout (typeText=null; priority=103.0; bold)
-products/getAllProducts (typeText=null; priority=103.0; bold)

@@ -1,3 +1,0 @@
-<template>
-   <vue-component v-model="model" />
-</template>

@@ -1,3 +1,0 @@
-<template>
-  <slot <caret>
-</template>

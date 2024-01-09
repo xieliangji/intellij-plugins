@@ -1,3 +1,0 @@
-"cart" (typeText=null; priority=103.0; bold)
-"cart/breadcrumbs" (typeText=null; priority=103.0; bold)
-"category" (typeText=null; priority=103.0; bold)

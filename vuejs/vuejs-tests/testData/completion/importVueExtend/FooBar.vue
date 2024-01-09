@@ -1,1 +1,0 @@
-<script>export default Vue.extend({props: {}});</script>

@@ -1,1 +1,0 @@
-myVuexModule/fetchProp1 (typeText=null)

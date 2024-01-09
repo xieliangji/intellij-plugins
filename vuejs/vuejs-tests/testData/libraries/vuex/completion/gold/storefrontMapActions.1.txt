@@ -1,3 +1,0 @@
-cart (typeText=null)
-cart/breadcrumbs (typeText=null)
-category (typeText=null)

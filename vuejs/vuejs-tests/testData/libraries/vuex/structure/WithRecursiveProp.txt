@@ -1,9 +1,0 @@
-VuexStoreContext: {
-  stores: [
-    VuexStoreImpl <store/test.js:64:JSNewExpression> {
-      actions: {
-        someProp: <store/test.js:134:JSProperty>,
-      }
-    }
-  ],
-}

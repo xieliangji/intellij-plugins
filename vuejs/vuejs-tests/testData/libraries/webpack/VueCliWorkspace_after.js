@@ -1,1 +1,0 @@
-import {vueCliFunc} from "@/assets/asset";

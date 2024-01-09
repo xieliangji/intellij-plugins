@@ -1,2 +1,0 @@
-aaaCount (typeText='number')
-aaaFoo (typeText='string')

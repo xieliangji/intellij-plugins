@@ -1,5 +1,0 @@
-"current" (typeText=null; priority=103.0; bold)
-"routes" (typeText=null; priority=103.0; bold)
-payload (typeText=null; priority=101.0; bold)
-state (typeText=null; priority=101.0; bold)
-breadcrumbsStore (typeText=null; priority=99.0; bold)

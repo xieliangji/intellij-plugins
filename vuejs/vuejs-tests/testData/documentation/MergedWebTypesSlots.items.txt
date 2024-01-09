@@ -1,3 +1,0 @@
-#arrow (priority=10.0)
-#default (priority=10.0)
-#dots (priority=10.0)

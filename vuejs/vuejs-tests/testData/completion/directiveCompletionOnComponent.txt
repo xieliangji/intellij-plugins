@@ -1,3 +1,0 @@
-v-resize
-v-ripple
-v-scroll
