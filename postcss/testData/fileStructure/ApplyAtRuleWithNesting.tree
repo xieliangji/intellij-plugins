@@ -1,9 +1,0 @@
--ApplyAtRuleWithNesting.pcss
- -a
-  -nest &:--any-link, :--button &
-   -& p
-    apply
- -div
-  apply
- -[media all]
-  apply
