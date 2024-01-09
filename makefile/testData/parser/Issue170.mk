@@ -1,3 +1,0 @@
-rule:
-# comment
-	echo yo

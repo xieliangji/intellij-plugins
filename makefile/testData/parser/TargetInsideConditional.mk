@@ -1,3 +1,0 @@
-ifndef VERBOSE
-.SILENT:
-endif

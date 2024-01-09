@@ -1,2 +1,0 @@
-Makefile
-  PsiComment(COMMENT)('# comment \\nVARIABLE = "value"')

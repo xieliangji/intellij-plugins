@@ -1,1 +1,0 @@
-$(shell (some_command --arg) 2>&1)

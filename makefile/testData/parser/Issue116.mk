@@ -1,1 +1,0 @@
-$(patsubst %,build-module-%,$(ALL_MODULES))

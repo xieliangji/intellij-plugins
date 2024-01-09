@@ -1,3 +1,0 @@
-a: qwerty
-
-qwerty: b
