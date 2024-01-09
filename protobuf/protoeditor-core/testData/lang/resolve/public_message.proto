@@ -1,5 +1,0 @@
-syntax = "proto2";
-
-package foo.bar;
-
-import public "lang/resolve/root_message.proto";

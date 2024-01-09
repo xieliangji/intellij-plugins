@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-package foo.bar;
-
-// Test import with unterminated 0-length quoted string.
-import <caret>"

@@ -1,9 +1,0 @@
-syntax = "proto2";
-
-message ExtensionsTest {
-  extensions 10 to max;
-}
-
-message ReservedTest {
-  reserved 10 to max;
-}
