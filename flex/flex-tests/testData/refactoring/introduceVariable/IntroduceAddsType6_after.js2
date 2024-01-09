@@ -1,4 +1,0 @@
-import aaa.XXX;
-class aaa.XXX {}
-var created:XXX = new XXX();
-var x = created;

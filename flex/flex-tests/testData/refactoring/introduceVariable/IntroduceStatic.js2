@@ -1,3 +1,0 @@
-class A {
-    static var a = <selection>1</selection>;
-}

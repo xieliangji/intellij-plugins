@@ -1,1 +1,0 @@
-var created:Vector.<String> = new <String>["foo", "bar"];

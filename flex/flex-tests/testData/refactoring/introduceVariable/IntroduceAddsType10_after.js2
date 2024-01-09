@@ -1,3 +1,0 @@
-var n1:Number = new Number(123);
-var u1:uint = 123;
-var created:Number = n1 * u1;

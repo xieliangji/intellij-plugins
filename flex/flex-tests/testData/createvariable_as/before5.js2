@@ -1,7 +1,0 @@
-// "Create 'set' property 'selectionManager'" "true"
-class A {
-  public function getSelectionManager():ISelectionManager {
-    selection<caret>Manager = null;
-  }
-}
-

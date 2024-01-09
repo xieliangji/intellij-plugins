@@ -1,2 +1,0 @@
-var a:uint = 123;
-var created:uint = a += 123;

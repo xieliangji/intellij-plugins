@@ -1,7 +1,0 @@
-// "Create method 'create'" "true"
-class Interface {
-    internal static function create(interface1:Interface):void {
-        <caret>
-    }
-}
-Interface.create(null as Interface);

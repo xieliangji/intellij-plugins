@@ -1,2 +1,0 @@
-function aaa():Number { return 1; }
-<selection>aaa()</selection>;

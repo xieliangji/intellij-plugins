@@ -1,2 +1,0 @@
-var created:* = obj;
-created.prp=2;

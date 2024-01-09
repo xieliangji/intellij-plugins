@@ -1,8 +1,0 @@
-package {
-public class Vector$object {
-    function pop():* {}
-}
-}
-
-var x:Vector.<String>
-<selection>x.pop()</selection>

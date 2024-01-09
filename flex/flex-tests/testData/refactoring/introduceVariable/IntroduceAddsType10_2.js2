@@ -1,3 +1,0 @@
-var n1:String = "";
-var u1:uint = 123;
-<selection>n1 + u1</selection>

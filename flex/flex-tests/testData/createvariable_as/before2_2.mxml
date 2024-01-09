@@ -1,6 +1,0 @@
-<!-- "Create 'set' property 'aaa'" "true" -->
-<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml">
-<mx:Script><![CDATA[
-a<caret>aa = 1
-]]></mx:Script>
-</mx:Application>

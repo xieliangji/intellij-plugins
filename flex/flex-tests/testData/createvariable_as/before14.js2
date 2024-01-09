@@ -1,7 +1,0 @@
-// "Create field 'aaa'" "true"
-class A___ {
-  function A___() {
-    ++aa<caret>a;
-  }
-}
-

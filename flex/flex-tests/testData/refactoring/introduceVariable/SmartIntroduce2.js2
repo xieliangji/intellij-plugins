@@ -1,3 +1,0 @@
-function trim(x:String):String { return x; }
-var someString:String = "test";
-trim(someS<caret>tring)

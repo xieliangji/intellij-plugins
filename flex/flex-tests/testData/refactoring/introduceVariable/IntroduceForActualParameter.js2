@@ -1,2 +1,0 @@
-function foo(arg) {}
-foo(<selection>"111"</selection>)

@@ -1,5 +1,0 @@
-function xxx() {
-  var a:Object;
-
-  a.argu<caret>
-}

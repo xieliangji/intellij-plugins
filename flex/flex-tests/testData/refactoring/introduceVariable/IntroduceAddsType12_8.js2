@@ -1,2 +1,0 @@
-var foo:Object
-<selection>delete foo[0]</selection>

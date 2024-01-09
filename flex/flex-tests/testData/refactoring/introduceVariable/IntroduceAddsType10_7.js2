@@ -1,2 +1,0 @@
-var a:uint = 123;
-<selection>a += 123</selection>

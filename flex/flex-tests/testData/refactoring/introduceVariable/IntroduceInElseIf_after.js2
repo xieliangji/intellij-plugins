@@ -1,7 +1,0 @@
-if (false) {
-}
-else {
-    var bbb:int = aaa.bbb;
-    if (bbb == 1) {
-    }
-}

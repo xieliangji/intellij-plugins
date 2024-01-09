@@ -1,2 +1,0 @@
-function foo():void {}
-fo<caret>o();

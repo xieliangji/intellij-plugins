@@ -1,9 +1,0 @@
-class F {
-    // inspection 3
-    function f<caret>f() {}
-
-    function ff3() {}
-
-    // inspection 2
-    function ff2() {}
-}

@@ -1,3 +1,0 @@
-class String {}
-var xxx:* = String.fromCharCode(123);
-var charCode:String = xxx;

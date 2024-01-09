@@ -1,2 +1,0 @@
-var a:uint = 123;
-a = <selection>123 == 123?1:0</selection>

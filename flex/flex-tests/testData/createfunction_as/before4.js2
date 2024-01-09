@@ -1,7 +1,0 @@
-// "Create method '_bbb'" "true"
-
-class C2 {
-  function C2() {
-    this._b<caret>bb("1","2");
-  }
-}

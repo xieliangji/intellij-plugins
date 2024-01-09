@@ -1,7 +1,0 @@
-// "Create parameter 'aaa'" "false"
-class A_____ {
-  function A_____() {
-    var x:aa<caret>a ;
-  }
-}
-

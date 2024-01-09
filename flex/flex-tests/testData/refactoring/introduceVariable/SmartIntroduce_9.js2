@@ -1,1 +1,0 @@
-processPoint(new Point(123,<caret>456));

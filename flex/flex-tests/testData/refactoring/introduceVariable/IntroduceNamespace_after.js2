@@ -1,2 +1,0 @@
-var namespace:Namespace = new Namespace("test");
-default xml namespace = namespace;

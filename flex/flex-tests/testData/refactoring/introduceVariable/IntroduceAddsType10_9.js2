@@ -1,3 +1,0 @@
-<selection>(function f():int {
-   return 123;
-})()</selection>;

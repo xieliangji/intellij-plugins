@@ -1,2 +1,0 @@
-var xxx:int = 456;
-processPoint(new Point(123,xxx));
