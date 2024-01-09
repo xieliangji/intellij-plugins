@@ -1,1 +1,0 @@
-Template.registerHelper("globalHelper1", function () {});
